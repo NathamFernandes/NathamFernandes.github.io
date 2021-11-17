@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {
+    background-image: url("images/cachorro-background.jpg");
+    color: white;
+
+}
+
+h2 {
+    text-align: justify;
+}
