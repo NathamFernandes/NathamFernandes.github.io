@@ -1,11 +1,21 @@
 @charset "UTF-8";
 
 body {
-    background-image: url("images/cachorro-background.jpg");
-    color: white;
+    background-image: url("");
+    color: black;
 
 }
 
 h2 {
     text-align: justify;
+}
+figure.imagem-legenda {
+    position: relative;
+    border: 20px solid white;
+    box-shadow: 2px 2px 4px black   
+}
+figure.imagem-legenda figcaption {
+    position: absolute;
+
+
 }
