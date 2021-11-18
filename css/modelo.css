@@ -10,13 +10,15 @@ h2 {
     text-align: justify;
 }
 figure.imagem-legenda {
+    width: 30%;
+    height: 30%;
     position: relative;
-    border: 20px solid white;
-    box-shadow: 2px 2px 4px black   
+    border: 10px solid white;
+    box-shadow: 2px 2px 5px black   
 }
 
 figure.imagem-legenda img {
-    width: 100%;
+    width: 200%;
     height: 100%;
 }
 
